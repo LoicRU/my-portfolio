@@ -27,3 +27,16 @@ fetch(`https://api.github.com/users/${username}/repos`)
         container.innerHTML = "<p>Erreur lors du chargement des projets.</p>";
         console.error(error);   
   });
+
+
+
+
+
+const burger = document.getElementById("burger");
+const navLinks = document.getElementById("nav-links");
+
+if (burger && navLinks) {
+    burger.addEventListener("click", () => {
+        navLinks.classList.toggle("active");
+    });
+}
