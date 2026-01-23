@@ -1,4 +1,4 @@
-export default function Home() {
+export default function About() {
   return (
     <section className="min-h-screen flex flex-col justify-center items-center text-center">
       <h1 className="text-5xl font-bold">
