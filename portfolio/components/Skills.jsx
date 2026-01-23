@@ -1,4 +1,4 @@
-const skills = ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"]
+const skills = ["Python", "HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind"]
 
 export default function Skills() {
   return (
