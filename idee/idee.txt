@@ -1,3 +1,0 @@
-pour les projet au lieu de faire une nouvelle div a chaque fois le faire automatiquement 
-(prendre tout les projet publique sauf le portfolio)
-
